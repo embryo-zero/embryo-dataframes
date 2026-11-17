@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo DataFrames
+
+**Embryo DataFrames** is Embryo-Zero's fork of [polars](https://github.com/pola-rs/polars), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <h1 align="center">
   <a href="https://pola.rs">
     <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/banner/polars_github_banner.svg" alt="Polars logo">
